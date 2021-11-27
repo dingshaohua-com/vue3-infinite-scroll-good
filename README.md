@@ -17,7 +17,7 @@ yarn add vue3-infinite-scroll-good
 ## 使用
 ```javascript
 // 全局注册 mian.js
-import infiniteScroll from 'vue-infinite-scroll'
+import infiniteScroll from 'vue3-infinite-scroll-good'
 createApp(App).use(infiniteScroll).mount('#app');
 ```
 ```javascript

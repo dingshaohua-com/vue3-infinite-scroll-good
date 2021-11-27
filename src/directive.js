@@ -253,6 +253,4 @@ var myDirective = {
   },
 };
 
-window.InfiniteScroll = myDirective;
-// Vue.directive('InfiniteScroll', myDirective);
-// export default myDirective;
+export default myDirective;
